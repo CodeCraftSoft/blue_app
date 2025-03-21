@@ -99,6 +99,7 @@ Repositorio del proyecto de e-commerce empleando Laravel y React.
 ## Clonar repositorio
 
 Instrucciones para clonar el repositorio y configurar el proyecto en tu máquina local.
+Si tienes alguna duda consulta con el administrador del repositorio.
 
 ```bash
 # Clona el repositorio
